@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378418976724",
+    "firebase_url": "https://stein-it-up.firebaseio.com",
+    "project_id": "stein-it-up",
+    "storage_bucket": "stein-it-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378418976724:android:4ae1c6b65ad018d6e4e841",
+        "android_client_info": {
+          "package_name": "com.steinitup.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378418976724-1402j5sk7ejjoq8vpcorie5snhv80jip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4DMM7UO6IK-1QQALvdZOiqK_wEjJJqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378418976724-1402j5sk7ejjoq8vpcorie5snhv80jip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
